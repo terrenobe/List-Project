@@ -1,0 +1,63 @@
+cs1302-lists:
+total 24
+-rw-r--r-- 1 ugrad  1895 Mar  5 18:16 pom.xml
+-rw-r--r-- 1 ugrad 13791 Mar  5 18:16 README.md
+-rw-r--r-- 1 ugrad     0 Mar  9 23:53 rec32244
+drwxr-xr-x 4 ugrad  4096 Mar  5 18:16 src
+
+cs1302-lists/src:
+total 8
+drwxr-xr-x 3 ugrad 4096 Mar  5 18:16 main
+drwxr-xr-x 3 ugrad 4096 Mar  5 18:16 test
+
+cs1302-lists/src/main:
+total 4
+drwxr-xr-x 3 ugrad 4096 Mar  5 18:16 java
+
+cs1302-lists/src/main/java:
+total 4
+drwxr-xr-x 3 ugrad 4096 Mar  5 18:16 cs1302
+
+cs1302-lists/src/main/java/cs1302:
+total 4
+drwxr-xr-x 3 ugrad 4096 Mar  9 23:52 p3
+
+cs1302-lists/src/main/java/cs1302/p3:
+total 72
+-rw-r--r-- 1 ugrad 9430 Mar  9 22:57 ArrayList.java
+-rw-r--r-- 1 ugrad 9306 Mar  9 22:46 ArrayList.java~
+-rw-r--r-- 1 ugrad  743 Mar  9 23:31 Box.class
+-rw-r--r-- 1 ugrad 1387 Mar  5 18:16 Box.java
+drwxr-xr-x 3 ugrad 4096 Mar  9 23:32 cs1302
+-rw-r--r-- 1 ugrad 1066 Mar  9 23:31 List.class
+-rw-r--r-- 1 ugrad 6884 Mar  5 18:16 List.java
+-rw-r--r-- 1 ugrad 9685 Mar  9 23:52 SortedArrayList.java
+-rw-r--r-- 1 ugrad 8569 Mar  9 23:38 SortedArrayList.java~
+
+cs1302-lists/src/main/java/cs1302/p3/cs1302:
+total 4
+drwxr-xr-x 2 ugrad 4096 Mar  9 23:38 p3
+
+cs1302-lists/src/main/java/cs1302/p3/cs1302/p3:
+total 16
+-rw-r--r-- 1 ugrad 3121 Mar  9 23:52 ArrayList.class
+-rw-r--r-- 1 ugrad  743 Mar  9 23:52 Box.class
+-rw-r--r-- 1 ugrad 1066 Mar  9 23:52 List.class
+-rw-r--r-- 1 ugrad 3981 Mar  9 23:52 SortedArrayList.class
+
+cs1302-lists/src/test:
+total 4
+drwxr-xr-x 3 ugrad 4096 Mar  5 18:16 java
+
+cs1302-lists/src/test/java:
+total 4
+drwxr-xr-x 3 ugrad 4096 Mar  5 18:16 cs1302
+
+cs1302-lists/src/test/java/cs1302:
+total 4
+drwxr-xr-x 2 ugrad 4096 Mar  5 18:16 p3
+
+cs1302-lists/src/test/java/cs1302/p3:
+total 4
+-rw-r--r-- 1 ugrad 1001 Mar  5 18:16 BoxTest.java
+/home/ugrads/terrell/cs1302-lists:/home/work/cs1302a
